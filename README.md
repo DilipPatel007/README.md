@@ -1,8 +1,8 @@
 ### Hi there I am [Dilip](https://www.linkedin.com/in/dilip-patel-php)👋 
 <br> 
 
-![Website]() 
-![Twitter Follow]()
+
+
 
 ### Languages and tools ⚙️ 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges --> 
