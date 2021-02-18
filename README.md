@@ -12,7 +12,7 @@
 
 ### Blogs 🌱 
 
-<a href="https://dev.to/dilippatel">
+<a hrefe="https://dev.to/dilippatel">
  <img src="https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/svg/blogs/devto.svg" alt="example badge" style="vertical-align:top margin:6px 4px"> 
 </a> 
 <a href=""> 
